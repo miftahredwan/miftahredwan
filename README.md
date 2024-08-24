@@ -31,4 +31,4 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White(1).gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihastech&show_icons=true&locale=en&layout=compact" alt="mihastech" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miftahredwan&show_icons=true&locale=en&layout=compact" alt="mihastech" /></p>
