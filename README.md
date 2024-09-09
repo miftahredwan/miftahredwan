@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [www.miftahredwan.vercel.app](www.miftahredwan.vercel.app)
+- 👨‍💻 All of my projects are available at [www.miftahredwan.vercel.app](https://miftahredwan.vercel.app/)
 
 - 💬 Ask me about **React and Node.js**
 
